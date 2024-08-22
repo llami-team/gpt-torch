@@ -1,5 +1,5 @@
 > [!NOTE]
-> gpt-torch is currently temporarily available to collaboration teams only.  If you have a request, please contact contact@paitoss.com
+> gpt-torch is currently temporarily available to collaboration teams only.  If you have a request, please contact contact@llami.net
 
 ![gpt-torch Open Graph Image](https://html-torch.vercel.app/og.png)
 
